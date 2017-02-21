@@ -44,6 +44,7 @@
     <Compile Include="News.cs" />
     <Compile Include="Picture.cs" />
     <Compile Include="PictureCategory.cs" />
+    <Compile Include="PictureContainer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
